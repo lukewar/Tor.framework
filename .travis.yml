@@ -5,3 +5,4 @@ xcode_scheme: Tor
 xcode_sdk: iphonesimulator9.0
 script:
   - xctool test -test-sdk $TEST_SDK
+
